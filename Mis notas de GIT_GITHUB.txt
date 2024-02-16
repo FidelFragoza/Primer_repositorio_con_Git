@@ -1,1 +1,5 @@
-https://prairie-ear-b53.notion.site/GIT-a87e8bea218d4c8d8d4352329c753758?pvs=4
+Git:
+  https://prairie-ear-b53.notion.site/GIT-a87e8bea218d4c8d8d4352329c753758
+
+Github:
+  https://prairie-ear-b53.notion.site/Github-0922cadec46546e98b45b180a6c43058
